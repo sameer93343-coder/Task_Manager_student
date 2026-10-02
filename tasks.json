@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "My c language program",
+        "subject": "C Programming",
+        "priority": "Medium",
+        "dueDate": "2026-09-20",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Mathematics equations solved",
+        "subject": "C Programming",
+        "priority": "Low",
+        "dueDate": "2026-09-24",
+        "completed": false
+    }
+]
